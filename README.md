@@ -1,2 +1,3 @@
 # wildfly-swarm-presentations
-Presentations on Swarm
+
+Various presentations on Swarm stored in native format and, where necessary, pdf.
