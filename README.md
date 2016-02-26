@@ -5,7 +5,7 @@ Various presentations on Swarm stored in native format and, where necessary, pdf
 
 ### February
 
-  * Java EE Microservices with WildFly Swarm - Heiko Braun ([PDF](/pdf/JUB-Munich-02_2016.pdf))
+  * Java EE Microservices with WildFly Swarm - Heiko Braun ([PDF](/pdf/JUG-Munich-02_2016.pdf))
 
 ## 2015
 
