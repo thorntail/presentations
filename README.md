@@ -3,7 +3,15 @@
 Various presentations on Swarm stored in native format and, where necessary, pdf.
 ## 2016
 
+### June
+
+#### Java Meetup - Perth, Australia
+
+  * WildFly Swarm - Stuart Douglas ([PDF](/pdf/Perth-Java-Meetup.pdf) / [ODP](/odp/Perth-Java-Meetup.odp))
+
 ### February
+
+#### JUG - Munich, Germany
 
   * Java EE Microservices with WildFly Swarm - Heiko Braun ([PDF](/pdf/JUG-Munich-02_2016.pdf))
 
