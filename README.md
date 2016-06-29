@@ -5,6 +5,10 @@ Various presentations on Swarm stored in native format and, where necessary, pdf
 
 ### June
 
+#### DevNation - San Francisco, USA
+
+  * Decomposing a Java EE Monolith into WildFly Swarm Microservices - Ken Finnigan ([PDF](/pdf/WFSwarm_DevNation.pdf) / [Keynote](/keynote/WFSwarm_DevNation.key))
+
 #### Java Meetup - Perth, Australia
 
   * WildFly Swarm - Stuart Douglas ([PDF](/pdf/Perth-Java-Meetup.pdf) / [ODP](/odp/Perth-Java-Meetup.odp))
