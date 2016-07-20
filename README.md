@@ -3,6 +3,12 @@
 Various presentations on Swarm stored in native format and, where necessary, pdf.
 ## 2016
 
+### July
+
+#### Portland Java User Group - Portland, OR
+
+  * WildFly Swarm - James R. Perkins ([web](http://jamezp.github.io/talks/wildfly-swarm/#/))
+
 ### June
 
 #### DevNation - San Francisco, USA
