@@ -3,6 +3,12 @@
 Various presentations on Swarm stored in native format and, where necessary, pdf.
 ## 2016
 
+### September
+
+#### JavaOne - San Francisco, USA
+
+  * Microservices and how WildFly Swarm can play a part - Ken Finnigan & Bob McWhirter ([PDF](/pdf/WFSwarm_JavaOne2016.pdf) / [Keynote](/keynote/WFSwarm_JavaOne2016.key))
+
 ### July
 
 #### Portland Java User Group - Portland, OR
