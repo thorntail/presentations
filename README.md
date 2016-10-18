@@ -3,6 +3,10 @@
 Various presentations on Swarm stored in native format and, where necessary, pdf.
 ## 2016
 
+### October
+
+  * JUG.cz - Brno ([PDF](/pdf/JUG.cz_Brno_2016.pdf)) 
+
 ### September
 
 #### JavaOne - San Francisco, USA
