@@ -3,6 +3,10 @@
 Various presentations on Swarm stored in native format and, where necessary, pdf.
 ## 2016
 
+### November
+
+	* Devoxx BE = Antwerp ([PDF]/pdf/Right_Size_your_services.pdf) ([Keynote]/keynoye/Right_Size_your_services.key)
+
 ### October
 
   * JUG.cz - Brno ([PDF](/pdf/JUG.cz_Brno_2016.pdf)) 
