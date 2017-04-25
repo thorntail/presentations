@@ -1,6 +1,14 @@
 # WildFly Swarm Presentations
 
 Various presentations on Swarm stored in native format and, where necessary, pdf.
+## 2017
+
+### April
+
+#### Danish JUG - Virtual
+
+  * Modern Java EE Microservices with WildFly Swarm - Ken Finnigan ([PDF](/pdf/WFSwarm_DanishJUG.pdf) / [Keynote](/keynote/WFSwarm_DanishJUG.key))
+
 ## 2016
 
 ### November
