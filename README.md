@@ -3,6 +3,11 @@
 Various presentations on Swarm stored in native format and, where necessary, pdf.
 ## 2017
 
+### May
+
+#### Riviera Dev
+  * Rightsize your services - Heiko Braun ([PDF](/pdf/Right_Size_your_services_RivieraDev.pdf) / [Keynote](/keynote/Right_Size_your_services_RivieraDev.key))
+  
 ### April
 
 #### Danish JUG - Virtual
