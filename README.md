@@ -5,9 +5,13 @@ Various presentations on Swarm stored in native format and, where necessary, pdf
 
 ### May
 
-#### Riviera Dev
+#### Riviera Dev - France
   * Rightsize your services - Heiko Braun ([PDF](/pdf/Right_Size_your_services_RivieraDev.pdf) / [Keynote](/keynote/Right_Size_your_services_RivieraDev.key))
-  
+
+#### Red Hat Summit - Boston, USA  
+  * Developing Microservices with WildFly Swarm and MicroProfile - Ken Finnigan & John Clingan ([PDF](/pdf/RHSummit2017_MicroservicesWithWFSwarm&MicroProfile.pdf))
+  * MicroProfile: Optimizing Java EE For a Microservices Architecture - Ken Finnigan & John Clingan ([PDF](/pdf/RHSummit2017_MicroProfile.pdf))
+
 ### April
 
 #### Danish JUG - Virtual
