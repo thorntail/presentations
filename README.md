@@ -3,6 +3,11 @@
 Various presentations on Swarm stored in native format and, where necessary, pdf.
 ## 2017
 
+### September
+
+#### Java Forum Nord - Germany
+  * Cloud Native JavaEE: WildFly Swarm and Openshift - Matthias Wessendorf ([PDF](/pdf/Swarm_Openshift.pdf))
+
 ### May
 
 #### Riviera Dev - France
