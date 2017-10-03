@@ -3,6 +3,11 @@
 Various presentations on Swarm stored in native format and, where necessary, pdf.
 ## 2017
 
+### October
+
+#### JavaOne - San Francisco, USA
+  * Transactions and Microservices? Really? - Mark Little & Tom Jenkinson ([PDF](/pdf/JavaOne2017-transactions.pdf)
+
 ### September
 
 #### Java Forum Nord - Germany
@@ -37,7 +42,6 @@ Various presentations on Swarm stored in native format and, where necessary, pdf
 
 #### JavaOne - San Francisco, USA
 
-  * Transactions and Microservices? Really? - Mark Little & Tom Jenkinson ([PDF](/pdf/JavaOne2017-transactions.pdf)
   * Microservices and how WildFly Swarm can play a part - Ken Finnigan & Bob McWhirter ([PDF](/pdf/WFSwarm_JavaOne2016.pdf) / [Keynote](/keynote/WFSwarm_JavaOne2016.key))
   * Container-less Development or Immutable Containers? - Mark Little ([PDF](/pdf/CON1385_Containers_and_Containerless_Development6.pdf) / [Keynote](/keynote/CON1385_Containers_and_Containerless_Development.key))
 
