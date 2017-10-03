@@ -6,7 +6,7 @@ Various presentations on Swarm stored in native format and, where necessary, pdf
 ### October
 
 #### JavaOne - San Francisco, USA
-  * Transactions and Microservices? Really? - Mark Little & Tom Jenkinson ([PDF](/pdf/JavaOne2017-transactions.pdf)
+  * Transactions and Microservices? Really? - Mark Little & Tom Jenkinson ([PDF](/pdf/JavaOne2017-transactions.pdf))
 
 ### September
 
