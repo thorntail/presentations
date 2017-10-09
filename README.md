@@ -6,6 +6,7 @@ Various presentations on Swarm stored in native format and, where necessary, pdf
 ### October
 
 #### JavaOne - San Francisco, USA
+  * Reactive Stream Processing with WildFly Swarm and Apache Kafka - Ken Finnigan ([PDF](/pdf/WFSwarmKafka_JavaOne2017.pdf) / [Keynote](/keynote/WFSwarmKafka_JavaOne2017.key))
   * Transactions and Microservices? Really? - Mark Little & Tom Jenkinson ([PDF](/pdf/JavaOne2017-transactions.pdf))
 
 ### September
@@ -16,9 +17,11 @@ Various presentations on Swarm stored in native format and, where necessary, pdf
 ### May
 
 #### Riviera Dev - France
+
   * Rightsize your services - Heiko Braun ([PDF](/pdf/Right_Size_your_services_RivieraDev.pdf) / [Keynote](/keynote/Right_Size_your_services_RivieraDev.key))
 
 #### Red Hat Summit - Boston, USA  
+
   * Developing Microservices with WildFly Swarm and MicroProfile - Ken Finnigan & John Clingan ([PDF](/pdf/RHSummit2017_MicroservicesWithWFSwarm&MicroProfile.pdf))
   * MicroProfile: Optimizing Java EE For a Microservices Architecture - Ken Finnigan & John Clingan ([PDF](/pdf/RHSummit2017_MicroProfile.pdf))
 
