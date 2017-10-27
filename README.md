@@ -6,7 +6,7 @@ Various presentations on Swarm stored in native format and, where necessary, pdf
 ### October
 
 #### JavaSI - Slovenia
-  * MicroProfile 1.2 Overview - Heiko Braun ([PDF](/pdf/MP-12-Overview.pdf) 
+  * MicroProfile 1.2 Overview - Heiko Braun ([PDF](/pdf/MP-12-Overview.pdf)) 
 
 #### JavaOne - San Francisco, USA
   * Reactive Stream Processing with WildFly Swarm and Apache Kafka - Ken Finnigan ([PDF](/pdf/WFSwarmKafka_JavaOne2017.pdf) / [Keynote](/keynote/WFSwarmKafka_JavaOne2017.key))
