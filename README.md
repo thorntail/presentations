@@ -1,6 +1,6 @@
-# WildFly Swarm Presentations
+# Thorntail Presentations
 
-Various presentations on Swarm stored in native format and, where necessary, pdf.
+Various presentations on Thorntail (WF Swarm) stored in native format and, where necessary, pdf.
 ## 2017
 
 ### October
